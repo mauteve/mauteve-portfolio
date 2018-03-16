@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="342px" height="615px" viewBox="0 0 342 615" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="33.6338976%" y1="-5.80566406%" x2="99.8568207%" y2="99.7050383%" id="linearGradient-1">
+            <stop stop-color="#48B9E7" offset="0%"></stop>
+            <stop stop-color="#60E6C8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-12" transform="translate(2.000000, 0.000000)">
+            <circle id="Oval-7-Copy-3" stroke="#CCCBCD" stroke-width="4" cx="8" cy="569" r="8"></circle>
+            <path d="M170,604 C76.1115925,604 0,527.888407 0,434 C0,340.111593 76.1115925,264 170,264 C263.888407,264 340,340.111593 340,434 C340,527.888407 263.888407,604 170,604 Z M170.5,544 C230.97518,544 280,494.97518 280,434.5 C280,374.02482 230.97518,325 170.5,325 C110.02482,325 61,374.02482 61,434.5 C61,494.97518 110.02482,544 170.5,544 Z" id="Combined-Shape-Copy-6" fill="url(#linearGradient-1)"></path>
+            <path d="M62,108 C32.1766235,108 8,83.8233765 8,54 C8,24.1766235 32.1766235,0 62,0 C91.8233765,0 116,24.1766235 116,54 C116,83.8233765 91.8233765,108 62,108 Z M61.5,88 C80.5538239,88 96,72.5538239 96,53.5 C96,34.4461761 80.5538239,19 61.5,19 C42.4461761,19 27,34.4461761 27,53.5 C27,72.5538239 42.4461761,88 61.5,88 Z" id="Combined-Shape-Copy-10" fill="#E7749B"></path>
+            <circle id="Oval-7" stroke="#CCCBCD" stroke-width="4" cx="41" cy="248" r="16"></circle>
+            <g id="Group-6" transform="translate(35.000000, 593.000000)" stroke="#CCCBCD" stroke-width="4">
+                <path d="M10.5,0.34375 L10.5,21.5227675" id="Line"></path>
+                <path d="M21,11 L0.131525302,11" id="Line"></path>
+            </g>
+        </g>
+    </g>
+</svg>

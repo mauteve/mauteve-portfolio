@@ -1,0 +1,48 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mauricionunez.com" resolutions="1x" timestamp="1521236934776">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="47664348" ref="index"/>
+    <file name="iefonts_index.css" crc="3778814228" ref="index"/>
+    <file name="home-copy.css" crc="3818982810" ref="home-copy"/>
+    <file name="iefonts_home-copy.css" crc="4140095455" ref="home-copy"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home-copy"/>
+    <file name="museutils.js" crc="4148063285" ref="index:home-copy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:home-copy"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:home-copy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:home-copy"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:home-copy"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index:home-copy"/>
+    <file name="require.js" crc="4159430777" ref="index:home-copy"/>
+  </folder>
+  <folder name="images">
+    <file name="bg1.jpg" crc="4267783850" ref="index:home-copy"/>
+    <file name="mau-logo.svg" crc="97443492" seo="true" ref="index:home-copy"/>
+    <file name="mau logo_poster_.png" crc="57748039" ref="index"/>
+    <file name="mau.png" crc="3946184388" ref="index"/>
+    <file name="skills.svg" crc="382807664" seo="true" ref="index"/>
+    <file name="skills_poster_.png" crc="338378609" ref="index"/>
+    <file name="jun2.jpg" crc="338880880" ref="index:home-copy"/>
+    <file name="bola2.svg" crc="444871524" seo="true" ref="index"/>
+    <file name="bola2_poster_.png" crc="4047870353" ref="index"/>
+    <file name="jun3.jpg" crc="12240878" ref="index:home-copy"/>
+    <file name="bola1.svg" crc="4035965516" seo="true" ref="index"/>
+    <file name="bola1_poster_.png" crc="12767595" ref="index"/>
+    <file name="jun4.jpg" crc="4238243997" ref="index:home-copy"/>
+    <file name="jun5.jpg" crc="4215621469" ref="index:home-copy"/>
+    <file name="jun6.jpg" crc="95916474" ref="index:home-copy"/>
+    <file name="instagram.svg" crc="3971606391" seo="true" ref="index:home-copy"/>
+    <file name="instagram_poster_.png" crc="4207622089" ref="index"/>
+    <file name="facebook.svg" crc="303448346" seo="true" ref="index:home-copy"/>
+    <file name="facebook_poster_.png" crc="166941972" ref="index"/>
+    <file name="linkedin.svg" crc="256106211" seo="true" ref="index:home-copy"/>
+    <file name="linkedin_poster_.png" crc="142197019" ref="index"/>
+    <file name="logo2.svg" crc="536399492" seo="true" ref="index:home-copy"/>
+    <file name="logo2_poster_.png" crc="3783683288" ref="index"/>
+    <file name="items1.svg" crc="93284362" seo="true" ref="home-copy"/>
+    <file name="items1_poster_.png" crc="3998183526" ref="home-copy"/>
+  </folder>
+  <file name="index.html" crc="4053978016" seo="true" mt="1521236356390" redirect="true"/>
+  <file name="home-copy.html" crc="4177380755" seo="true" mt="1521236499738" redirect="true"/>
+</manifest>

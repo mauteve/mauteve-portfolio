@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="342px" height="398px" viewBox="0 0 342 398" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="33.6338976%" y1="-5.80566406%" x2="99.8568207%" y2="99.7050383%" id="linearGradient-1">
+            <stop stop-color="#48B9E7" offset="0%"></stop>
+            <stop stop-color="#60E6C8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-12" transform="translate(0.000000, 2.000000)">
+            <path d="M170,357 C76.1115925,357 0,280.888407 0,187 C0,93.1115925 76.1115925,17 170,17 C263.888407,17 340,93.1115925 340,187 C340,280.888407 263.888407,357 170,357 Z M170.5,297 C230.97518,297 280,247.97518 280,187.5 C280,127.02482 230.97518,78 170.5,78 C110.02482,78 61,127.02482 61,187.5 C61,247.97518 110.02482,297 170.5,297 Z" id="Combined-Shape-Copy-7" fill="url(#linearGradient-1)"></path>
+            <path d="M265,396 C235.176624,396 211,371.823376 211,342 C211,312.176624 235.176624,288 265,288 C294.823376,288 319,312.176624 319,342 C319,371.823376 294.823376,396 265,396 Z M264.5,376 C283.553824,376 299,360.553824 299,341.5 C299,322.446176 283.553824,307 264.5,307 C245.446176,307 230,322.446176 230,341.5 C230,360.553824 245.446176,376 264.5,376 Z" id="Combined-Shape-Copy-9" fill="#E7749B"></path>
+            <circle id="Oval-7-Copy" stroke="#CCCBCD" stroke-width="4" cx="324" cy="16" r="16"></circle>
+        </g>
+    </g>
+</svg>
