@@ -1,18 +1,18 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mauricionunez.com" resolutions="1x" timestamp="1521580166560">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mauricionunez.com" resolutions="1x" timestamp="1521581368085">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="upteam.css" crc="3823906247" ref="upteam"/>
-    <file name="iefonts_upteam.css" crc="172840412" ref="upteam"/>
+    <file name="upteam.css" crc="4213688321" ref="upteam"/>
+    <file name="iefonts_upteam.css" crc="3804176972" ref="upteam"/>
     <file name="infographiq.css" crc="283979413" ref="infographiq"/>
     <file name="iefonts_infographiq.css" crc="56336325" ref="infographiq"/>
     <file name="index.css" crc="95249313" ref="index"/>
     <file name="iefonts_index.css" crc="164517508" ref="index"/>
-    <file name="ideaware.css" crc="4169452783" ref="ideaware"/>
-    <file name="iefonts_ideaware.css" crc="4204261473" ref="ideaware"/>
-    <file name="multiple-clients.css" crc="4286720692" ref="multiple-clients"/>
-    <file name="iefonts_multiple-clients.css" crc="289182429" ref="multiple-clients"/>
-    <file name="glipsy.css" crc="4032487847" ref="glipsy"/>
-    <file name="iefonts_glipsy.css" crc="179408139" ref="glipsy"/>
+    <file name="ideaware.css" crc="4246346972" ref="ideaware"/>
+    <file name="iefonts_ideaware.css" crc="308643825" ref="ideaware"/>
+    <file name="multiple-clients.css" crc="252323543" ref="multiple-clients"/>
+    <file name="iefonts_multiple-clients.css" crc="4077065386" ref="multiple-clients"/>
+    <file name="glipsy.css" crc="4266372236" ref="glipsy"/>
+    <file name="iefonts_glipsy.css" crc="3796105883" ref="glipsy"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients"/>
@@ -165,6 +165,7 @@
     <file name="group 1011_poster_.png" crc="59864455" ref="infographiq"/>
     <file name="iq31quantumcomputingai-01.jpg" crc="279076366" ref="infographiq:multiple-clients">
       <caption webpage="infographiq" alt=""/>
+      <caption webpage="multiple-clients" alt=""/>
     </file>
     <file name="iq-35memorialday2-01.jpg" crc="417066815" ref="infographiq">
       <caption webpage="infographiq" alt=""/>
@@ -208,9 +209,9 @@
     </file>
   </folder>
   <file name="index.html" crc="3823451333" seo="true" mt="1521577715949" redirect="true"/>
-  <file name="glipsy.html" crc="3900798565" seo="true" mt="1521580166035" redirect="true"/>
-  <file name="upteam.html" crc="280260896" seo="true" mt="1521578797936" redirect="true"/>
-  <file name="ideaware.html" crc="18859744" seo="true" mt="1521578800807" redirect="true"/>
+  <file name="glipsy.html" crc="3990400629" seo="true" mt="1521581243609" redirect="true"/>
+  <file name="upteam.html" crc="492225018" seo="true" mt="1521581225657" redirect="true"/>
+  <file name="ideaware.html" crc="4021224072" seo="true" mt="1521581169572" redirect="true"/>
   <file name="infographiq.html" crc="234687080" seo="true" mt="1521578801321" redirect="true"/>
-  <file name="multiple-clients.html" crc="3869260731" seo="true" mt="1521578801946" redirect="true"/>
+  <file name="multiple-clients.html" crc="4156620922" seo="true" mt="1521581205053" redirect="true"/>
 </manifest>
