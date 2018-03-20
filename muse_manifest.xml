@@ -1,17 +1,17 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mauricionunez.com" resolutions="1x" timestamp="1521582376161">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mauricionunez.com" resolutions="1x" timestamp="1521583979852">
   <folder name="css">
     <file name="site_global.css" crc="4159315047"/>
-    <file name="upteam.css" crc="4164934388" ref="upteam"/>
+    <file name="upteam.css" crc="338898332" ref="upteam"/>
     <file name="iefonts_upteam.css" crc="3804176972" ref="upteam"/>
-    <file name="infographiq.css" crc="4004977680" ref="infographiq"/>
+    <file name="infographiq.css" crc="499900382" ref="infographiq"/>
     <file name="iefonts_infographiq.css" crc="3781433778" ref="infographiq"/>
-    <file name="index.css" crc="95249313" ref="index"/>
+    <file name="index.css" crc="3899119767" ref="index"/>
     <file name="iefonts_index.css" crc="164517508" ref="index"/>
-    <file name="ideaware.css" crc="4246346972" ref="ideaware"/>
+    <file name="ideaware.css" crc="226725643" ref="ideaware"/>
     <file name="iefonts_ideaware.css" crc="308643825" ref="ideaware"/>
-    <file name="multiple-clients.css" crc="252323543" ref="multiple-clients"/>
+    <file name="multiple-clients.css" crc="3897989539" ref="multiple-clients"/>
     <file name="iefonts_multiple-clients.css" crc="4077065386" ref="multiple-clients"/>
-    <file name="glipsy.css" crc="4266372236" ref="glipsy"/>
+    <file name="glipsy.css" crc="3995621577" ref="glipsy"/>
     <file name="iefonts_glipsy.css" crc="3796105883" ref="glipsy"/>
   </folder>
   <folder name="scripts">
@@ -138,21 +138,6 @@
       <caption webpage="ideaware" alt=""/>
     </file>
     <file name="group 10q_poster_.png" crc="4033081026" ref="ideaware"/>
-    <file name="check in copy 11.png" crc="149652446" ref="ideaware">
-      <caption webpage="ideaware" alt=""/>
-    </file>
-    <file name="check in copy 7.png" crc="135975736" ref="ideaware">
-      <caption webpage="ideaware" alt=""/>
-    </file>
-    <file name="check in copy 8.png" crc="4138805506" ref="ideaware">
-      <caption webpage="ideaware" alt=""/>
-    </file>
-    <file name="check in copy 9.png" crc="345582687" ref="ideaware">
-      <caption webpage="ideaware" alt=""/>
-    </file>
-    <file name="group 4.png" crc="4244248603" ref="ideaware">
-      <caption webpage="ideaware" alt=""/>
-    </file>
     <file name="artboard.png" crc="3812116456" ref="infographiq">
       <caption webpage="infographiq" alt=""/>
     </file>
@@ -204,12 +189,27 @@
     <file name="forms_new copy 9.jpg" crc="93008302" ref="glipsy">
       <caption webpage="glipsy" alt=""/>
     </file>
-    <file name="uptm-u724.png" crc="82499682" ref="upteam"/>
+    <file name="uptm.png" crc="474538046" ref="upteam">
+      <caption webpage="upteam" alt=""/>
+    </file>
+    <file name="check in copy 11.jpg" crc="3937596298" ref="ideaware">
+      <caption webpage="ideaware" alt=""/>
+    </file>
+    <file name="check in copy 7.jpg" crc="343094098" ref="ideaware">
+      <caption webpage="ideaware" alt=""/>
+    </file>
+    <file name="check in copy 8.jpg" crc="3981171651" ref="ideaware"/>
+    <file name="check in copy 9.jpg" crc="4219984323" ref="ideaware">
+      <caption webpage="ideaware" alt=""/>
+    </file>
+    <file name="iww-01.jpg" crc="298233737" ref="ideaware">
+      <caption webpage="ideaware" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3828669431" seo="true" mt="1521581896057" redirect="true"/>
-  <file name="glipsy.html" crc="3935013261" seo="true" mt="1521582144006" redirect="true"/>
-  <file name="upteam.html" crc="204896014" seo="true" mt="1521582327695" redirect="true"/>
-  <file name="ideaware.html" crc="3815435592" seo="true" mt="1521581896073" redirect="true"/>
-  <file name="infographiq.html" crc="148115475" seo="true" mt="1521582011286" redirect="true"/>
-  <file name="multiple-clients.html" crc="3999622893" seo="true" mt="1521582078451" redirect="true"/>
+  <file name="index.html" crc="481039380" seo="true" mt="1521582887897" redirect="true"/>
+  <file name="glipsy.html" crc="324187522" seo="true" mt="1521583796098" redirect="true"/>
+  <file name="upteam.html" crc="3879467622" seo="true" mt="1521583811580" redirect="true"/>
+  <file name="ideaware.html" crc="526691895" seo="true" mt="1521583976691" redirect="true"/>
+  <file name="infographiq.html" crc="3792441708" seo="true" mt="1521583884898" redirect="true"/>
+  <file name="multiple-clients.html" crc="376977744" seo="true" mt="1521583921152" redirect="true"/>
 </manifest>
