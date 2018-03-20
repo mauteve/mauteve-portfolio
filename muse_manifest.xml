@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mauricionunez.com" resolutions="1x" timestamp="1521578804517">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mauricionunez.com" resolutions="1x" timestamp="1521580166560">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="upteam.css" crc="3823906247" ref="upteam"/>
@@ -11,7 +11,7 @@
     <file name="iefonts_ideaware.css" crc="4204261473" ref="ideaware"/>
     <file name="multiple-clients.css" crc="4286720692" ref="multiple-clients"/>
     <file name="iefonts_multiple-clients.css" crc="289182429" ref="multiple-clients"/>
-    <file name="glipsy.css" crc="286696289" ref="glipsy"/>
+    <file name="glipsy.css" crc="4032487847" ref="glipsy"/>
     <file name="iefonts_glipsy.css" crc="179408139" ref="glipsy"/>
   </folder>
   <folder name="scripts">
@@ -27,6 +27,7 @@
   <folder name="images">
     <file name="bg1.jpg" crc="4267783850" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients">
       <caption webpage="index" alt=""/>
+      <caption webpage="glipsy" alt=""/>
     </file>
     <file name="mau-logo.svg" crc="97443492" seo="true" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients">
       <caption webpage="index" alt=""/>
@@ -36,7 +37,7 @@
       <caption webpage="infographiq" alt=""/>
       <caption webpage="multiple-clients" alt=""/>
     </file>
-    <file name="mau logo_poster_.png" crc="57748039" ref="index"/>
+    <file name="mau logo_poster_.png" crc="57748039" ref="index:glipsy"/>
     <file name="mau.png" crc="3946184388" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -46,13 +47,14 @@
     <file name="skills_poster_.png" crc="338378609" ref="index"/>
     <file name="jun2.jpg" crc="338880880" ref="index:glipsy">
       <caption webpage="index" alt=""/>
+      <caption webpage="glipsy" alt=""/>
     </file>
     <file name="bola2.svg" crc="444871524" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="bola2_poster_.png" crc="4047870353" ref="index"/>
-    <file name="jun3.jpg" crc="12240878" ref="index:glipsy">
+    <file name="jun3.jpg" crc="12240878" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bola1.svg" crc="4035965516" seo="true" ref="index">
@@ -60,13 +62,13 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="bola1_poster_.png" crc="12767595" ref="index"/>
-    <file name="jun4.jpg" crc="4238243997" ref="index:glipsy">
+    <file name="jun4.jpg" crc="4238243997" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jun5.jpg" crc="4215621469" ref="index:glipsy">
+    <file name="jun5.jpg" crc="4215621469" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jun6.jpg" crc="95916474" ref="index:glipsy">
+    <file name="jun6.jpg" crc="95916474" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="instagram.svg" crc="3971606391" seo="true" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients">
@@ -77,7 +79,7 @@
       <caption webpage="infographiq" alt=""/>
       <caption webpage="multiple-clients" alt=""/>
     </file>
-    <file name="instagram_poster_.png" crc="4207622089" ref="index"/>
+    <file name="instagram_poster_.png" crc="4207622089" ref="index:glipsy"/>
     <file name="facebook.svg" crc="303448346" seo="true" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients">
       <caption webpage="index" alt=""/>
       <caption webpage="ideaware" alt=""/>
@@ -86,7 +88,7 @@
       <caption webpage="infographiq" alt=""/>
       <caption webpage="multiple-clients" alt=""/>
     </file>
-    <file name="facebook_poster_.png" crc="166941972" ref="index"/>
+    <file name="facebook_poster_.png" crc="166941972" ref="index:glipsy"/>
     <file name="linkedin.svg" crc="256106211" seo="true" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients">
       <caption webpage="index" alt=""/>
       <caption webpage="ideaware" alt=""/>
@@ -95,7 +97,7 @@
       <caption webpage="infographiq" alt=""/>
       <caption webpage="multiple-clients" alt=""/>
     </file>
-    <file name="linkedin_poster_.png" crc="142197019" ref="index"/>
+    <file name="linkedin_poster_.png" crc="142197019" ref="index:glipsy"/>
     <file name="logo2.svg" crc="536399492" seo="true" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients">
       <caption webpage="index" alt=""/>
       <caption webpage="ideaware" alt=""/>
@@ -104,7 +106,7 @@
       <caption webpage="infographiq" alt=""/>
       <caption webpage="multiple-clients" alt=""/>
     </file>
-    <file name="logo2_poster_.png" crc="3783683288" ref="index"/>
+    <file name="logo2_poster_.png" crc="3783683288" ref="index:glipsy"/>
     <file name="items1.svg" crc="93284362" seo="true" ref="glipsy:upteam">
       <caption webpage="glipsy" alt=""/>
       <caption webpage="upteam" alt=""/>
@@ -195,9 +197,18 @@
     <file name="asasa.jpg" crc="4128575825" ref="multiple-clients">
       <caption webpage="multiple-clients" alt=""/>
     </file>
+    <file name="newtherapist_month.jpg" crc="3999076400" ref="glipsy">
+      <caption webpage="glipsy" alt=""/>
+    </file>
+    <file name="forms_new.jpg" crc="3799046264" ref="glipsy">
+      <caption webpage="glipsy" alt=""/>
+    </file>
+    <file name="forms_new copy 9.jpg" crc="93008302" ref="glipsy">
+      <caption webpage="glipsy" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="3823451333" seo="true" mt="1521577715949" redirect="true"/>
-  <file name="glipsy.html" crc="4150008789" seo="true" mt="1521238676177" redirect="true"/>
+  <file name="glipsy.html" crc="3900798565" seo="true" mt="1521580166035" redirect="true"/>
   <file name="upteam.html" crc="280260896" seo="true" mt="1521578797936" redirect="true"/>
   <file name="ideaware.html" crc="18859744" seo="true" mt="1521578800807" redirect="true"/>
   <file name="infographiq.html" crc="234687080" seo="true" mt="1521578801321" redirect="true"/>
