@@ -1,69 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mauricionunez.com/index.html</loc>
-    <lastmod>2018-03-16</lastmod>
+    <lastmod>2018-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/mau-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/skills.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/bola2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/bola1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/instagram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/facebook.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/logo2.svg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://mauricionunez.com/home-copy.html</loc>
+    <loc>http://mauricionunez.com/glipsy.html</loc>
     <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/mau-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/instagram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/facebook.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/logo2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/items1.svg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://mauricionunez.com/images/skills.svg</loc>
-    <lastmod>2018-03-16</lastmod>
+    <loc>http://mauricionunez.com/upteam.html</loc>
+    <lastmod>2018-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/mau-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/instagram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/facebook.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/logo2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/items1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/group-8.svg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://mauricionunez.com/images/bola1.svg</loc>
-    <lastmod>2018-03-16</lastmod>
+    <loc>http://mauricionunez.com/ideaware.html</loc>
+    <lastmod>2018-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/mau-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/instagram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/facebook.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/logo2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/group-10q.svg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://mauricionunez.com/images/bola2.svg</loc>
-    <lastmod>2018-03-16</lastmod>
+    <loc>http://mauricionunez.com/infographiq.html</loc>
+    <lastmod>2018-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/mau-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/instagram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/facebook.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/logo2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/group-1011.svg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://mauricionunez.com/images/instagram.svg</loc>
-    <lastmod>2018-03-16</lastmod>
+    <loc>http://mauricionunez.com/multiple-clients.html</loc>
+    <lastmod>2018-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mauricionunez.com/images/linkedin.svg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mauricionunez.com/images/logo2.svg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mauricionunez.com/images/items1.svg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mauricionunez.com/images/mau-logo.svg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mauricionunez.com/images/facebook.svg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/mau-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/instagram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/facebook.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/logo2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mauricionunez.com/images/group-1013.svg</image:loc>
+    </image:image>
   </url>
 </urlset>

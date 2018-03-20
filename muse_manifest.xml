@@ -1,48 +1,205 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mauricionunez.com" resolutions="1x" timestamp="1521236934776">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mauricionunez.com" resolutions="1x" timestamp="1521578804517">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="47664348" ref="index"/>
-    <file name="iefonts_index.css" crc="3778814228" ref="index"/>
-    <file name="home-copy.css" crc="3818982810" ref="home-copy"/>
-    <file name="iefonts_home-copy.css" crc="4140095455" ref="home-copy"/>
+    <file name="upteam.css" crc="3823906247" ref="upteam"/>
+    <file name="iefonts_upteam.css" crc="172840412" ref="upteam"/>
+    <file name="infographiq.css" crc="283979413" ref="infographiq"/>
+    <file name="iefonts_infographiq.css" crc="56336325" ref="infographiq"/>
+    <file name="index.css" crc="95249313" ref="index"/>
+    <file name="iefonts_index.css" crc="164517508" ref="index"/>
+    <file name="ideaware.css" crc="4169452783" ref="ideaware"/>
+    <file name="iefonts_ideaware.css" crc="4204261473" ref="ideaware"/>
+    <file name="multiple-clients.css" crc="4286720692" ref="multiple-clients"/>
+    <file name="iefonts_multiple-clients.css" crc="289182429" ref="multiple-clients"/>
+    <file name="glipsy.css" crc="286696289" ref="glipsy"/>
+    <file name="iefonts_glipsy.css" crc="179408139" ref="glipsy"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home-copy"/>
-    <file name="museutils.js" crc="4148063285" ref="index:home-copy"/>
-    <file name="whatinput.js" crc="86476730" ref="index:home-copy"/>
-    <file name="museconfig.js" crc="4179431180" ref="index:home-copy"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:home-copy"/>
-    <file name="jquery.watch.js" crc="437028206" ref="index:home-copy"/>
-    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index:home-copy"/>
-    <file name="require.js" crc="4159430777" ref="index:home-copy"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients"/>
+    <file name="museutils.js" crc="4216313831" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients"/>
+    <file name="whatinput.js" crc="86476730" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients"/>
+    <file name="require.js" crc="3951022091" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients"/>
   </folder>
   <folder name="images">
-    <file name="bg1.jpg" crc="4267783850" ref="index:home-copy"/>
-    <file name="mau-logo.svg" crc="97443492" seo="true" ref="index:home-copy"/>
+    <file name="bg1.jpg" crc="4267783850" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mau-logo.svg" crc="97443492" seo="true" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ideaware" alt=""/>
+      <caption webpage="glipsy" alt=""/>
+      <caption webpage="upteam" alt=""/>
+      <caption webpage="infographiq" alt=""/>
+      <caption webpage="multiple-clients" alt=""/>
+    </file>
     <file name="mau logo_poster_.png" crc="57748039" ref="index"/>
-    <file name="mau.png" crc="3946184388" ref="index"/>
-    <file name="skills.svg" crc="382807664" seo="true" ref="index"/>
+    <file name="mau.png" crc="3946184388" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skills.svg" crc="382807664" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="skills_poster_.png" crc="338378609" ref="index"/>
-    <file name="jun2.jpg" crc="338880880" ref="index:home-copy"/>
-    <file name="bola2.svg" crc="444871524" seo="true" ref="index"/>
+    <file name="jun2.jpg" crc="338880880" ref="index:glipsy">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bola2.svg" crc="444871524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="bola2_poster_.png" crc="4047870353" ref="index"/>
-    <file name="jun3.jpg" crc="12240878" ref="index:home-copy"/>
-    <file name="bola1.svg" crc="4035965516" seo="true" ref="index"/>
+    <file name="jun3.jpg" crc="12240878" ref="index:glipsy">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bola1.svg" crc="4035965516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="bola1_poster_.png" crc="12767595" ref="index"/>
-    <file name="jun4.jpg" crc="4238243997" ref="index:home-copy"/>
-    <file name="jun5.jpg" crc="4215621469" ref="index:home-copy"/>
-    <file name="jun6.jpg" crc="95916474" ref="index:home-copy"/>
-    <file name="instagram.svg" crc="3971606391" seo="true" ref="index:home-copy"/>
+    <file name="jun4.jpg" crc="4238243997" ref="index:glipsy">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jun5.jpg" crc="4215621469" ref="index:glipsy">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jun6.jpg" crc="95916474" ref="index:glipsy">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram.svg" crc="3971606391" seo="true" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ideaware" alt=""/>
+      <caption webpage="glipsy" alt=""/>
+      <caption webpage="upteam" alt=""/>
+      <caption webpage="infographiq" alt=""/>
+      <caption webpage="multiple-clients" alt=""/>
+    </file>
     <file name="instagram_poster_.png" crc="4207622089" ref="index"/>
-    <file name="facebook.svg" crc="303448346" seo="true" ref="index:home-copy"/>
+    <file name="facebook.svg" crc="303448346" seo="true" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ideaware" alt=""/>
+      <caption webpage="glipsy" alt=""/>
+      <caption webpage="upteam" alt=""/>
+      <caption webpage="infographiq" alt=""/>
+      <caption webpage="multiple-clients" alt=""/>
+    </file>
     <file name="facebook_poster_.png" crc="166941972" ref="index"/>
-    <file name="linkedin.svg" crc="256106211" seo="true" ref="index:home-copy"/>
+    <file name="linkedin.svg" crc="256106211" seo="true" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ideaware" alt=""/>
+      <caption webpage="glipsy" alt=""/>
+      <caption webpage="upteam" alt=""/>
+      <caption webpage="infographiq" alt=""/>
+      <caption webpage="multiple-clients" alt=""/>
+    </file>
     <file name="linkedin_poster_.png" crc="142197019" ref="index"/>
-    <file name="logo2.svg" crc="536399492" seo="true" ref="index:home-copy"/>
+    <file name="logo2.svg" crc="536399492" seo="true" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ideaware" alt=""/>
+      <caption webpage="glipsy" alt=""/>
+      <caption webpage="upteam" alt=""/>
+      <caption webpage="infographiq" alt=""/>
+      <caption webpage="multiple-clients" alt=""/>
+    </file>
     <file name="logo2_poster_.png" crc="3783683288" ref="index"/>
-    <file name="items1.svg" crc="93284362" seo="true" ref="home-copy"/>
-    <file name="items1_poster_.png" crc="3998183526" ref="home-copy"/>
+    <file name="items1.svg" crc="93284362" seo="true" ref="glipsy:upteam">
+      <caption webpage="glipsy" alt=""/>
+      <caption webpage="upteam" alt=""/>
+    </file>
+    <file name="items1_poster_.png" crc="3998183526" ref="glipsy"/>
+    <file name="gravity.jpg" crc="329559833" ref="upteam">
+      <caption webpage="upteam" alt=""/>
+    </file>
+    <file name="group-8.svg" crc="4082273443" seo="true" ref="upteam">
+      <caption webpage="upteam" alt=""/>
+    </file>
+    <file name="group 8_poster_.png" crc="4046085187" ref="upteam"/>
+    <file name="uptm.png" crc="474538046" ref="upteam">
+      <caption webpage="upteam" alt=""/>
+    </file>
+    <file name="dashboard.jpg" crc="444895781" ref="upteam">
+      <caption webpage="upteam" alt=""/>
+    </file>
+    <file name="check in copy.jpg" crc="464085791" ref="upteam">
+      <caption webpage="upteam" alt=""/>
+    </file>
+    <file name="ping.jpg" crc="3809747907" ref="upteam">
+      <caption webpage="upteam" alt=""/>
+    </file>
+    <file name="payment with stripe 1.jpg" crc="4002957756" ref="upteam">
+      <caption webpage="upteam" alt=""/>
+    </file>
+    <file name="artboard.jpg" crc="3763572866" ref="ideaware">
+      <caption webpage="ideaware" alt=""/>
+    </file>
+    <file name="group-10q.svg" crc="299153377" seo="true" ref="ideaware">
+      <caption webpage="ideaware" alt=""/>
+    </file>
+    <file name="group 10q_poster_.png" crc="4033081026" ref="ideaware"/>
+    <file name="check in copy 11.png" crc="149652446" ref="ideaware">
+      <caption webpage="ideaware" alt=""/>
+    </file>
+    <file name="check in copy 7.png" crc="135975736" ref="ideaware">
+      <caption webpage="ideaware" alt=""/>
+    </file>
+    <file name="check in copy 8.png" crc="4138805506" ref="ideaware">
+      <caption webpage="ideaware" alt=""/>
+    </file>
+    <file name="check in copy 9.png" crc="345582687" ref="ideaware">
+      <caption webpage="ideaware" alt=""/>
+    </file>
+    <file name="group 4.png" crc="4244248603" ref="ideaware">
+      <caption webpage="ideaware" alt=""/>
+    </file>
+    <file name="artboard.png" crc="3812116456" ref="infographiq">
+      <caption webpage="infographiq" alt=""/>
+    </file>
+    <file name="group-1011.svg" crc="4146439550" seo="true" ref="infographiq">
+      <caption webpage="infographiq" alt=""/>
+    </file>
+    <file name="group 1011_poster_.png" crc="59864455" ref="infographiq"/>
+    <file name="iq31quantumcomputingai-01.jpg" crc="279076366" ref="infographiq:multiple-clients">
+      <caption webpage="infographiq" alt=""/>
+    </file>
+    <file name="iq-35memorialday2-01.jpg" crc="417066815" ref="infographiq">
+      <caption webpage="infographiq" alt=""/>
+    </file>
+    <file name="iq42bonnaroo2-01.jpg" crc="3789649867" ref="infographiq">
+      <caption webpage="infographiq" alt=""/>
+    </file>
+    <file name="iq-45-4thofjuly-01.jpg" crc="532349108" ref="infographiq">
+      <caption webpage="infographiq" alt=""/>
+    </file>
+    <file name="artboard copy 2.jpg" crc="483895491" ref="multiple-clients">
+      <caption webpage="multiple-clients" alt=""/>
+    </file>
+    <file name="group-1013.svg" crc="3838587019" seo="true" ref="multiple-clients">
+      <caption webpage="multiple-clients" alt=""/>
+    </file>
+    <file name="group 1013_poster_.png" crc="3791429160" ref="multiple-clients"/>
+    <file name="april7-01.jpg" crc="4173358720" ref="multiple-clients">
+      <caption webpage="multiple-clients" alt=""/>
+    </file>
+    <file name="jun23-01.jpg" crc="4134596060" ref="multiple-clients">
+      <caption webpage="multiple-clients" alt=""/>
+    </file>
+    <file name="artboard2.jpg" crc="28646802" ref="multiple-clients">
+      <caption webpage="multiple-clients" alt=""/>
+    </file>
+    <file name="illustration_may5.jpg" crc="4259348722" ref="multiple-clients">
+      <caption webpage="multiple-clients" alt=""/>
+    </file>
+    <file name="asasa.jpg" crc="4128575825" ref="multiple-clients">
+      <caption webpage="multiple-clients" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4053978016" seo="true" mt="1521236356390" redirect="true"/>
-  <file name="home-copy.html" crc="4177380755" seo="true" mt="1521236499738" redirect="true"/>
+  <file name="index.html" crc="3823451333" seo="true" mt="1521577715949" redirect="true"/>
+  <file name="glipsy.html" crc="4150008789" seo="true" mt="1521238676177" redirect="true"/>
+  <file name="upteam.html" crc="280260896" seo="true" mt="1521578797936" redirect="true"/>
+  <file name="ideaware.html" crc="18859744" seo="true" mt="1521578800807" redirect="true"/>
+  <file name="infographiq.html" crc="234687080" seo="true" mt="1521578801321" redirect="true"/>
+  <file name="multiple-clients.html" crc="3869260731" seo="true" mt="1521578801946" redirect="true"/>
 </manifest>
