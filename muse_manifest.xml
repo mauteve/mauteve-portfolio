@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mauricionunez.com" resolutions="1x" timestamp="1521662166509">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mauricionunez.com" resolutions="1x" timestamp="1521667963764">
   <folder name="css">
     <file name="site_global.css" crc="4159315047"/>
     <file name="upteam.css" crc="338898332" ref="upteam"/>
@@ -206,10 +206,10 @@
       <caption webpage="ideaware" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="314214935" seo="true" mt="1521661666957" redirect="true"/>
+  <file name="index.html" crc="82342429" seo="true" mt="1521667838377" redirect="true"/>
   <file name="glipsy.html" crc="324187522" seo="true" mt="1521583796098" redirect="true"/>
   <file name="upteam.html" crc="3879467622" seo="true" mt="1521583811580" redirect="true"/>
-  <file name="ideaware.html" crc="4153938178" seo="true" mt="1521661799392" redirect="true"/>
+  <file name="ideaware.html" crc="4153938178" seo="true" mt="1521667961678" redirect="true"/>
   <file name="infographiq.html" crc="3792441708" seo="true" mt="1521583884898" redirect="true"/>
   <file name="multiple-clients.html" crc="376977744" seo="true" mt="1521583921152" redirect="true"/>
 </manifest>
