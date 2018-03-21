@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mauricionunez.com" resolutions="1x" timestamp="1521586163150">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mauricionunez.com" resolutions="1x" timestamp="1521661801605">
   <folder name="css">
     <file name="site_global.css" crc="4159315047"/>
     <file name="upteam.css" crc="338898332" ref="upteam"/>
     <file name="iefonts_upteam.css" crc="3804176972" ref="upteam"/>
     <file name="infographiq.css" crc="499900382" ref="infographiq"/>
     <file name="iefonts_infographiq.css" crc="3781433778" ref="infographiq"/>
-    <file name="index.css" crc="3899119767" ref="index"/>
+    <file name="index.css" crc="65753762" ref="index"/>
     <file name="iefonts_index.css" crc="164517508" ref="index"/>
     <file name="ideaware.css" crc="226725643" ref="ideaware"/>
     <file name="iefonts_ideaware.css" crc="308643825" ref="ideaware"/>
@@ -31,11 +31,11 @@
     </file>
     <file name="mau-logo.svg" crc="97443492" seo="true" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients">
       <caption webpage="index" alt=""/>
-      <caption webpage="ideaware" alt=""/>
-      <caption webpage="glipsy" alt=""/>
-      <caption webpage="upteam" alt=""/>
       <caption webpage="infographiq" alt=""/>
+      <caption webpage="glipsy" alt=""/>
+      <caption webpage="ideaware" alt=""/>
       <caption webpage="multiple-clients" alt=""/>
+      <caption webpage="upteam" alt=""/>
     </file>
     <file name="mau logo_poster_.png" crc="57748039" ref="index"/>
     <file name="mau.png" crc="3946184388" ref="index">
@@ -73,38 +73,38 @@
     </file>
     <file name="instagram.svg" crc="3971606391" seo="true" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients">
       <caption webpage="index" alt=""/>
-      <caption webpage="ideaware" alt=""/>
-      <caption webpage="glipsy" alt=""/>
-      <caption webpage="upteam" alt=""/>
       <caption webpage="infographiq" alt=""/>
+      <caption webpage="glipsy" alt=""/>
+      <caption webpage="ideaware" alt=""/>
       <caption webpage="multiple-clients" alt=""/>
+      <caption webpage="upteam" alt=""/>
     </file>
     <file name="instagram_poster_.png" crc="4207622089" ref="index"/>
     <file name="facebook.svg" crc="303448346" seo="true" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients">
       <caption webpage="index" alt=""/>
-      <caption webpage="ideaware" alt=""/>
-      <caption webpage="glipsy" alt=""/>
-      <caption webpage="upteam" alt=""/>
       <caption webpage="infographiq" alt=""/>
+      <caption webpage="glipsy" alt=""/>
+      <caption webpage="ideaware" alt=""/>
       <caption webpage="multiple-clients" alt=""/>
+      <caption webpage="upteam" alt=""/>
     </file>
     <file name="facebook_poster_.png" crc="166941972" ref="index"/>
     <file name="linkedin.svg" crc="256106211" seo="true" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients">
       <caption webpage="index" alt=""/>
-      <caption webpage="ideaware" alt=""/>
-      <caption webpage="glipsy" alt=""/>
-      <caption webpage="upteam" alt=""/>
       <caption webpage="infographiq" alt=""/>
+      <caption webpage="glipsy" alt=""/>
+      <caption webpage="ideaware" alt=""/>
       <caption webpage="multiple-clients" alt=""/>
+      <caption webpage="upteam" alt=""/>
     </file>
     <file name="linkedin_poster_.png" crc="142197019" ref="index"/>
     <file name="logo2.svg" crc="536399492" seo="true" ref="index:glipsy:upteam:ideaware:infographiq:multiple-clients">
       <caption webpage="index" alt=""/>
-      <caption webpage="ideaware" alt=""/>
-      <caption webpage="glipsy" alt=""/>
-      <caption webpage="upteam" alt=""/>
       <caption webpage="infographiq" alt=""/>
+      <caption webpage="glipsy" alt=""/>
+      <caption webpage="ideaware" alt=""/>
       <caption webpage="multiple-clients" alt=""/>
+      <caption webpage="upteam" alt=""/>
     </file>
     <file name="logo2_poster_.png" crc="3783683288" ref="index"/>
     <file name="items1.svg" crc="93284362" seo="true" ref="glipsy:upteam">
@@ -206,10 +206,10 @@
       <caption webpage="ideaware" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="481039380" seo="true" mt="1521582887897" redirect="true"/>
+  <file name="index.html" crc="314214935" seo="true" mt="1521661666957" redirect="true"/>
   <file name="glipsy.html" crc="324187522" seo="true" mt="1521583796098" redirect="true"/>
   <file name="upteam.html" crc="3879467622" seo="true" mt="1521583811580" redirect="true"/>
-  <file name="ideaware.html" crc="526691895" seo="true" mt="1521583976691" redirect="true"/>
+  <file name="ideaware.html" crc="4153938178" seo="true" mt="1521661799392" redirect="true"/>
   <file name="infographiq.html" crc="3792441708" seo="true" mt="1521583884898" redirect="true"/>
   <file name="multiple-clients.html" crc="376977744" seo="true" mt="1521583921152" redirect="true"/>
 </manifest>
